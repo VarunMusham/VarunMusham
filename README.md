@@ -1,7 +1,7 @@
 Hi there 👋
 
-I am an Undergrad student at Shiv Nadar University, Delhi NCR
-I am currently learning Python
+I am an Undergrad student at Shiv Nadar University, Delhi NCR.
+I am currently learning Python.
 Areas of Interest:
     i) Machine Learning
     ii) Web Development
