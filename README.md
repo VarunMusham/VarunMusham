@@ -1,10 +1,4 @@
-Hi there 👋
-
-I am an Undergrad student at Shiv Nadar University, Delhi NCR.
-I am currently learning Python.
-Areas of Interest:
-    i) Machine Learning
-    ii) Web Development
+SNU' 26 BTech - Electrical and Computer Engineering
 How to reach me:
   Gmail: mushamvarun130@gmail.com
   Instagram: [@varun_musham_50](https://www.instagram.com/varun_musham_50/)
