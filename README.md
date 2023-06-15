@@ -1,4 +1,9 @@
-SNU' 26 BTech - Electrical and Computer Engineering
+Hi There 👋
+
+I am Varun, an Undergrad student majoring in Electrical and Computer Engineering.
+My Area of Interest:
+i) Web Development
+ii) Machine Learning 
 How to reach me:
   Gmail: mushamvarun130@gmail.com
   Instagram: [@varun_musham_50](https://www.instagram.com/varun_musham_50/)
