@@ -1,13 +1,14 @@
-Hi There 👋
+# Hi There 👋
 
-I am Varun, an Undergrad student majoring in Electrical and Computer Engineering.
-My Area of Interest:
-i) Embedded Systems
-ii) Digital Signal Processing
-iii) Machine Learning 
-How to reach me:
-  Gmail: mushamvarun130@gmail.com
-  Instagram: [@varun_musham_50](https://www.instagram.com/varun_musham_50/)
+I'm Varun, a 3rd-year undergraduate student majoring in Electrical and Computer Engineering at Shiv Nadar University.
+
+## A Little More About Me
+I'm passionate about technology and innovation, constantly exploring how to integrate my interests in embedded systems, digital signal processing, and machine learning to create impactful solutions. When I'm not diving deep into code and circuits, you might find me experimenting with new projects, learning about the latest tech trends, or sharing my thoughts and experiences on social media.
+
+## How to Reach Me
+- **Email**: [mushamvarun130@gmail.com](mailto:mushamvarun130@gmail.com)
+- **Instagram**: [@varun_musham_50](https://www.instagram.com/varun_musham_50/)
+
   
 <!--
 **VarunMusham/VarunMusham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
