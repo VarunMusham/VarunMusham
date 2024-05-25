@@ -3,7 +3,7 @@
 I'm Varun, a 3rd-year undergraduate student majoring in Electrical and Computer Engineering at Shiv Nadar University.
 
 ## A Little More About Me
-I'm passionate about technology and innovation, constantly exploring how to integrate my interests in embedded systems, digital signal processing, and machine learning to create impactful solutions. When I'm not diving deep into code and circuits, you might find me experimenting with new projects, learning about the latest tech trends, or sharing my thoughts and experiences on social media.
+I'm passionate about technology and innovation, constantly exploring how to integrate my interests in embedded systems, digital signal processing, and machine learning to create impactful solutions. When I'm not diving deep into code and circuits, you might find me experimenting with new projects or learning about the latest tech trends.
 
 ## How to Reach Me
 - **Email**: [mushamvarun130@gmail.com](mailto:mushamvarun130@gmail.com)
