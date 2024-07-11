@@ -25,7 +25,7 @@
   -->
 
  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://awesome-github-stats.azurewebsites.net/user-stats/VarunMusham/>
+    <img src=https://github-readme-stats.vercel.app/api?username=VarunMUSHAm&show_icons=true&theme=radical>
   </a>
     
 </p>
