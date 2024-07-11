@@ -24,8 +24,8 @@
   </br> 
   -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VarunMusham&hide_border=true&show_icons=true&theme=tokyonight&card_width=495 />
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src=https://awesome-github-stats.azurewebsites.net/user-stats/VarunMusham/>
   </a>
     
 </p>
