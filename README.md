@@ -1,5 +1,34 @@
-# Hi There 👋
+<h1  align="center">Hi, There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋Hi" width="40px"  height="40" /></h1>
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,javascript,nodejs,react,bash,git,vercel,arduino,supabase" />
+  </a>
+</p>
+
+<p align="center">
+  </br>
+  
+  <a href="https://git.io/streak-stats">
+    <img src=https://streak-stats.demolab.com/?user=VarunMusham&&theme=tokyonight&&hide_border=true&card_width=495>
+  </a>
+   
+  </br>
+  </br>
+  <!--
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VarunMusham&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css>
+ 
+  </br>
+  </br> 
+  -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VarunMusham&hide_border=true&show_icons=true&theme=tokyonight&card_width=495 />
+  </a>
+    
+</p>
 I'm Varun, a 3rd-year undergraduate student majoring in Electrical and Computer Engineering at Shiv Nadar University.
 
 ## A Little More About Me
