@@ -24,8 +24,8 @@
   </br> 
   -->
 
- <a href="[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=VarunMUSHAm&show_icons=true&theme=radical)">
-    <img src=https://github-readme-stats.vercel.app/api?username=VarunMUSHAm&show_icons=true&theme=radical>
+ <a href="[[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=VarunMUSHAm&show_icons=true&theme=radical)](https://github-readme-stats.zohan.tech/api?username=VarunMusham&show_icons=true&locale=en&theme=tokyonight)">
+    <img src=https://github-readme-stats.zohan.tech/api?username=VarunMusham&show_icons=true&locale=en&theme=tokyonight>
   </a>
     
 </p>
