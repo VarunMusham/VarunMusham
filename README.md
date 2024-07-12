@@ -10,7 +10,7 @@
 <p align="center">
   </br>
   
-  <a href="https://git.io/streak-stats">
+  <a href="[https://git.io/streak-stats](https://streak-stats.demolab.com/?user=VarunMusham&&theme=tokyonight&&hide_border=true&card_width=495)">
     <img src=https://streak-stats.demolab.com/?user=VarunMusham&&theme=tokyonight&&hide_border=true&card_width=495>
   </a>
    
@@ -24,7 +24,7 @@
   </br> 
   -->
 
- <a href="https://github.com/anuraghazra/github-readme-stats">
+ <a href="[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=VarunMUSHAm&show_icons=true&theme=radical)">
     <img src=https://github-readme-stats.vercel.app/api?username=VarunMUSHAm&show_icons=true&theme=radical>
   </a>
     
