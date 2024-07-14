@@ -1,4 +1,4 @@
-<h1  align="center">Hi, There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋Hi" width="40px"  height="40" /></h1>
+<h1  align="center">Hi, There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" width="40px"  height="40" /></h1>
 
 
 <p align="center">
