@@ -28,11 +28,6 @@
     <img src=https://github-readme-stats.vercel.app/api?username=VarunMUSHAm&&theme=tokyonight&&hide_border=true&card_width=495>
   </a>
 
-  <br>
-  <br>
-   <a href="[https://github.r2v.ch/codewars?user=VarunMusham&top_languages=true&hide_clan=true&animation=true&theme=nightowl](https://github.r2v.ch/codewars?user=VarunMusham&top_languages=true&hide_clan=true&animation=true&theme=nightowl)">
-    <img src=https://github.r2v.ch/codewars?user=VarunMusham&top_languages=true&hide_clan=true&animation=true&theme=nightowl>
-  </a>
     
 </p>
 I'm Varun, a 3rd-year undergraduate student majoring in Electrical and Computer Engineering at Shiv Nadar University.
